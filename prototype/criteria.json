@@ -1,0 +1,8 @@
+{
+  "version": "v1",
+  "category": "Commercial Solar Installation",
+  "budget_ceiling_cad": 260000,
+  "max_weeks": 16,
+  "mandatory": ["licence", "wsib_and_insurance"],
+  "weights": {"experience": 30, "price": 25, "timeline": 15, "warranty": 15, "team": 15}
+}
