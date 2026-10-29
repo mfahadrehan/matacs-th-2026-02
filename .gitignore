@@ -1,0 +1,4 @@
+.env
+samples/
+output_ranking.json
+__pycache__/
